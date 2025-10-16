@@ -3,5 +3,7 @@ public class Week4 {
         int sum = 0;
         sum = sum + 5;
         System.out.println(sum);
+        System.out.println(sum);
+
     }
 }
